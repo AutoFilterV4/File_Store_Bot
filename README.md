@@ -4,7 +4,7 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/Mo_Tech_YT">
+  <a href="https://t.me/punisherofc">
     <img src="https://github.com/Mo_Tech_YT/PyrogramGenStr/blob/main/resources/madebymotech-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/Mo_Tech_YT">
@@ -108,7 +108,7 @@ Report Bugs, Give Feature Requests There..
 ### Credits
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Thanks For [CodxBotz](https://www.telegram.dog/codexbotz) & [Our Group](https://t.me/Mo_Tech_Group) Members.
+- Thanks For [CodxBotz](https://www.telegram.dog/codexbotz) & [Owner](https://t.me/punisherofc) Members.
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
