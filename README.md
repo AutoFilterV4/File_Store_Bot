@@ -7,10 +7,10 @@
   <a href="https://t.me/punisherofc">
     <img src="https://github.com/Mo_Tech_YT/PyrogramGenStr/blob/main/resources/madebymotech-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/Mo_Tech_YT">
+  <a href="https://t.me/punisherofc">
     &nbsp;<img src="https://img.shields.io/badge/MoTech-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/Mo_Tech_Group">
+  <a href="https://t.me/punisherofc">
     &nbsp;<img src="https://img.shields.io/badge/MoTech-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
@@ -30,10 +30,7 @@
 **If You Need Any More Modes in Repo or If You Find Out Any Bugs, Mention in [codexbotzsupport](https://www.telegram.dog/codexbotzsupport)**
 
 ### Features
-- Fully customisable.
-- Customisable welcome messages.
-- More than one Posts in One Link.
-- Can be deployed on heroku directly.
+Ozm!!!!!!☺️
 
 ### Setup
 
